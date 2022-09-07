@@ -3462,7 +3462,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 listMessage :{
                     title: `「 مرحبا 👋🏻  」◣
 		    「 معك بوت ميكي 🤗 」◣
-		    「 ةافضل بوتة عربي 」◣
+		    「 افضل بوتة عربية 」◣
  「 رابط فرع التعليم على البوت」◣
 		    「https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3」◣
 		    「 الي محتاج شروحات ينضم 」◣`,
