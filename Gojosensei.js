@@ -1443,7 +1443,7 @@ case 'halah': case 'hilih': case 'huluh': case 'heleh': case 'holoh':
                 if (!isAdmins) return replay(`${mess.admin}`)
 let teks = `「المنشن الجماعي」◣
  
- ➲ *${q ? q : 'تذكير منشني ميراي اقوى مملكة'}*\n\n`
+ ➲ *${q ? q : 'منشن البوتة ميكي '}*\n\n`
                 for (let mem of participants) {
                 teks += `👤 @${mem.id.split('@')[0]}\n`
                 }
@@ -1746,12 +1746,12 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: '「 رابط الاستقبال 」「📌」◣',
+                                    displayText: '「 رابط استقبال مملكة ميراي 」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '「 قناتي 」「📍」◣',
+                                    displayText: '「تيك توك مملكة ميراي 」「📍」◣',
                                     url: `${myweb}`
                                 }
                             }, {
@@ -1780,12 +1780,12 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: '「 رابط الاستقبال 」「📌」◣',
+                                    displayText: '「 رابط استقبال مملكة ميراي 」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '「 قناتي 」「📍」◣', 
+                                    displayText: '「 تيك توك مملكة ميراي 」「📍」◣', 
                                     url: `${myweb}`
                                 }
                             }, {
