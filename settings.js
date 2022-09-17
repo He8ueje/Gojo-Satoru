@@ -27,15 +27,15 @@ global.botname = '♛ البوتة ميكي ♛'
 global.footer = '♛ البوتة ميكي ♛'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = '◜【 𝙼𝙸𝚁𝙰𝙸 🎐 𝚂𝚃𝙸𝙲𝙺𝙴𝚁 】◞'
-global.author = '[ ميراي>>عالم الخيال ]'
+global.sc = 'https://chat.whatsapp.com/Csd70BKtWwSKUy6zY1cJsr'
+global.myweb = 'https://www.tiktok.com/@mjk.mirai?_t=8VliD12kBX8&_r=1'
+global.packname = '🎐ملصقات ميكي🎐'
+global.author = '+966532292553'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓',
+    success: '✓تم يعيوني',
     admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
     botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
     owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
