@@ -22,14 +22,14 @@ global.APIKeys = {
 global.owner = ['966532292553']
 global.premium = ['966532292553']
 global.ownernomer = '966532292553'
-global.ownername = 'تشوبر اقوى كونت'
-global.botname = '♛ البوتة ميكي ♛'
-global.footer = '♛ البوتة ميكي ♛'
+global.ownername = 'تشوبرنيون القوي'
+global.botname = '𝒑𝒂𝒓𝒂𝒅𝒊𝒔𝒆 𝒃𝒐𝒕  Ϟ'
+global.footer = '𝒑𝒂𝒓𝒂𝒅𝒊𝒔𝒆 𝒃𝒐𝒕  Ϟ'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/B8rzU79I7nj4p7ZQu1lRiI'
-global.myweb = 'https://instagram.com/m.d.t.sq?igshid=YmMyMTA2M2Y='
-global.packname = '🌑ملصقات ميكي🌑'
+global.sc = 'https://chat.whatsapp.com/HcGTDcPxvkFJkBOdbdf3rS'
+global.myweb = 'https://instagram.com/4wazop?igshid=YmMyMTA2M2Y='
+global.packname = 'Ϟ 𝐌𝐈𝐂𝐊𝐄𝐘 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 Ϟ'
 global.author = '+966532292553'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
