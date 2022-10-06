@@ -1746,7 +1746,7 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: '「 رابط استقبال مملكة بارادايس 」「📌」◣',
+                                    displayText: '「 رابط استقبال النقابة 」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
@@ -1780,12 +1780,12 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: '「 رابط استقبال مملكة بارادايس 」「📌」◣',
+                                    displayText: '「 رابط استقبال النقابة」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '「 نستا تشوبر 🤞 」「📍」◣', 
+                                    displayText: '「 انستا تشوبر 🤞 」「📍」◣', 
                                     url: `${myweb}`
                                 }
                             }, {
@@ -3361,7 +3361,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوتة ميكي 👋🏻」◣
-││✑「⚜️ من مملكة بارادايس ⚜️ 」◣
+││✑「⚜️ مؤسسها تشوبرنيون ⚜️ 」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : 「 ميكي ✨🤞🏻 」◣
@@ -3377,7 +3377,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '「 رابط الاستقبال 」「📌」◣',
+                                displayText: '「 رابط فرع ارقام 」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3416,7 +3416,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت ميكي 👋🏻」◣
-││✑「⚜️ من مملكة بارادايس ⚜️」
+││✑「⚜️ مؤسسها تشوبرنيون ⚜️」
 
 
 │└───────────────┈ ⳹
@@ -3434,7 +3434,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '「 رابط الاستقبال 」「📌」◣',
+                                displayText: '「 رابط فرع ارقام 」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3464,9 +3464,9 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 listMessage :{
                     title: `「 كونيتشوا 👋🏻  」◣
 		    「 معك البوتة ميكي 🤗 」◣
-		    「 ⚜️ من مملكة بارادايس ⚜️ 」◣
- 「 رابط استقبال المملكة」◣
-		    「 https://chat.whatsapp.com/HcGTDcPxvkFJkBOdbdf3rS 」◣
+		    「 🎐من نقابة ستريكس 🎐 」◣
+ 「 رابط استقبال النقابة」◣
+		    「 https://chat.whatsapp.com/IR1Ox8BBHks08HAyJLJIK0 」◣
 		    「 انشروه وجيب اصحابك」◣`,
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
@@ -3563,10 +3563,10 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "المملكة",
+								"title": "النقابة",
 								"rows": [
 									{
-										"title": "قائمة استمارات مملكة بارادايس (للمشرفين فقط)",
+										"title": "قائمة استمارات نقابة ستريكس (للمشرفين)",
 										"description": ".17.",
 										"rowId": `${prefix}anon`
 									}
@@ -3576,7 +3576,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "نبذة",
 								"rows": [
 									{
-										"title": "تقرير عن مملكة بارادايس ⚜️",
+										"title": "🎐 قصة نقابة ستريكس 🎐",
 										"description": ".18.",
 										"rowId": `${prefix}tqtt`
 									}
@@ -3594,9 +3594,9 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
             case 'التسجhgjيل': case 'التسجيل': {
-                reply(`「 رابط استقبال المملكة」◣
+                reply(`「 رابط استقبال النقابة」◣
 
-「 https://chat.whatsapp.com/HcGTDcPxvkFJkBOdbdf3rS 」◣
+「 https://chat.whatsapp.com/IR1Ox8BBHks08HAyJLJIK0 」◣
 
 「 نرحب بالجميع. 」◣`)
             }
