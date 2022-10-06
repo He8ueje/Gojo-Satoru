@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['966532292553']
-global.premium = ['966532292553']
+global.owner = ['تشوبرنيون 🍷']
+global.premium = ['تشوبرنيون 🍷']
 global.ownernomer = '966532292553'
 global.ownername = 'تشوبرنيون القوي'
-global.botname = '𝒑𝒂𝒓𝒂𝒅𝒊𝒔𝒆 𝒃𝒐𝒕  Ϟ'
-global.footer = '𝒑𝒂𝒓𝒂𝒅𝒊𝒔𝒆 𝒃𝒐𝒕  Ϟ'
+global.botname = '𝒔𝒕𝒓𝒊𝒙 𝒃𝒐𝒕 🎐'
+global.footer = '𝒔𝒕𝒓𝒊𝒙 𝒃𝒐𝒕 🎐'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/HcGTDcPxvkFJkBOdbdf3rS'
+global.sc = 'https://chat.whatsapp.com/IR1Ox8BBHks08HAyJLJIK0'
 global.myweb = 'https://instagram.com/4wazop?igshid=YmMyMTA2M2Y='
-global.packname = 'Ϟ 𝐌𝐈𝐂𝐊𝐄𝐘 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 Ϟ'
-global.author = '+966532292553'
+global.packname = '🎐 𝒔 𝒕 𝒓 𝒊 𝒙  𝒃 𝒐 𝒕 🎐'
+global.author = '𝒄𝒉𝒐𝒑𝒑𝒆𝒓 🍷'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
