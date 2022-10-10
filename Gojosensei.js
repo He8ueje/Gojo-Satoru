@@ -3377,7 +3377,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '「 رابط فرع ارقام 」「📌」◣',
+                                displayText: '「 رابط استقبال النقابة」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3434,7 +3434,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '「 رابط فرع ارقام 」「📌」◣',
+                                displayText: '「 رابط استقبال النقابة 」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
@@ -3464,7 +3464,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 listMessage :{
                     title: `「 كونيتشوا 👋🏻  」◣
 		    「 معك البوتة ميكي 🤗 」◣
-		    「 🎐من نقابة ستريكس 🎐 」◣
+		    「 من نقابة رايدن ⚡️ 」◣
  「 رابط استقبال النقابة」◣
 		    「 https://chat.whatsapp.com/IR1Ox8BBHks08HAyJLJIK0 」◣
 		    「 انشروه وجيب اصحابك」◣`,
@@ -3566,7 +3566,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "النقابة",
 								"rows": [
 									{
-										"title": "قائمة استمارات نقابة ستريكس (للمشرفين)",
+										"title": "قائمة استمارات نقابة رايدن (للمشرفين)",
 										"description": ".17.",
 										"rowId": `${prefix}anon`
 									}
@@ -3576,7 +3576,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "نبذة",
 								"rows": [
 									{
-										"title": "🎐 قصة نقابة ستريكس 🎐",
+										"title": "⚡️ قصة نقابة رايدن ⚡️",
 										"description": ".18.",
 										"rowId": `${prefix}tqtt`
 									}
